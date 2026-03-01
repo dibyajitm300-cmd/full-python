@@ -1,0 +1,4 @@
+Object oriented programming 
+#concept focus on using code reusability
+DRY principle:-DO NOT REPEAT YOURSELF
+CLASS IS A BLUEPRINT BUT OBJECT IS THE ACRTUAL CONTENT FILLED IN THE BLUEPRIINT

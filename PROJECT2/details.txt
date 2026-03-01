@@ -1,0 +1,6 @@
+We aew going to write a program the generates a random number and ask the user to guess it.
+If the player's guess is higher than the actual number,the program displays "LOWER NUMBER PLEASE"
+Similiarly,if the user's guess is too low,the program prints "HIGHER NUMBER PLEASE".
+When the user guess the correct number ,the program displays the number of guesses the player used toarrive at the number
+
+HINT :- USE THE RANDOM MODULE

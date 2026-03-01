@@ -1,0 +1,17 @@
+#Enter 7 fruits names inn a tupple by user
+fruits=[]
+f1=input("Enter fruit name: ")
+fruits.append(f1)
+f1=input("Enter fruit name: ")
+fruits.append(f1)
+f1=input("Enter fruit name: ")
+fruits.append(f1)
+f1=input("Enter fruit name: ")
+fruits.append(f1)
+f1=input("Enter fruit name: ")
+fruits.append(f1)
+f1=input("Enter fruit name: ")
+fruits.append(f1)
+f1=input("Enter fruit name: ")
+fruits.append(f1)
+print(fruits)
